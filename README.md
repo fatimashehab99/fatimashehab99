@@ -1,4 +1,4 @@
-### I am a positive, hardworking, and ambitious engineer with a strong desire to gain practical experience and advance my career. I prioritize continual learning and improvement to stay ahead in my field. Working well under pressure, I excel at collaborating effectively and demonstrating excellent judgment. My dedication lies in creating a positive and dynamic work environment. Currently, I am working as a backend developer and I am eager to expand my knowledge in the field of data engineer 
+### I am a positive, hardworking, and ambitious engineer with a strong desire to gain practical experience and advance my career. I prioritize continual learning and improvement to stay ahead in my field. Working well under pressure, I excel at collaborating effectively and demonstrating excellent judgment. My dedication lies in creating a positive and dynamic work environment. Currently, I am working as a backend developer and I am eager to expand my knowledge and experience in the field of data engineer and analytics
 
 
 🔭 I’m currently working on developing APIs, backend systems for database management,big data and analytics systems.
