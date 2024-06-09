@@ -9,7 +9,6 @@
 - LinkedIn: LinkedIn Profile
   
 ### Skills & Abilities:
-•
-Experienced with PHP, Python, C#, Java, NumPy, Pandas, Laravel, Flask, ASP.NET, SQL, MySQL, PostgreSQL, MongoDB, SQL Alchemy, data modeling, ETL, data pipeline, data engineering, data visualization, data warehousing, and data cleaning, Microsoft Power BI, Git, GitHub.
-•
-I am familiar with Google Cloud Platform, Big Query,Looker Studio, Cloud Storage, Cloud Function, Apache Beam, Dataflow. Possess strong teamwork, communication skills, and problem-solving abilities.
+• Experienced with PHP, Python, C#, Java, NumPy, Pandas, Laravel, Flask, ASP.NET, SQL, MySQL, PostgreSQL, MongoDB, SQL Alchemy, data modeling, ETL, data pipeline, data engineering, data visualization, data warehousing, and data cleaning, Microsoft Power BI, Git, GitHub.
+
+• I am familiar with Google Cloud Platform, Big Query,Looker Studio, Cloud Storage, Cloud Function, Apache Beam, Dataflow. Possess strong teamwork, communication skills, and problem-solving abilities.
