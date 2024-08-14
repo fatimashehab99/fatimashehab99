@@ -6,7 +6,7 @@
 👯 I’m looking to collaborate on projects related to data engineering, analytics, and big data.
 🤔 I’m looking for help with developing more analytics and data systems, and working with big data.
 - Email: fatima_shehab_sh@outlook.com
-- LinkedIn: LinkedIn Profile
+- LinkedIn: linkedin.com/in/fatima-shehab-474497222
   
 ### Skills & Abilities:
 • Experienced with PHP, Python, C#, Java, NumPy, Pandas, Laravel, Flask, ASP.NET, SQL, MySQL, PostgreSQL, MongoDB, SQL Alchemy, data modeling, ETL, data pipeline, data engineering, data visualization, data warehousing, and data cleaning, Microsoft Power BI, Git, GitHub.
